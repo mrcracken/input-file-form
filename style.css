@@ -1,0 +1,11 @@
+.btn{
+    margin-top: 10px;
+	background-color: white;
+	font-size: 15px;
+    padding: 7px 14px;
+	border-radius: 5px;
+}
+
+.custom-file-input ~ .custom-file-label::after {
+    content: "Elegir";
+}
